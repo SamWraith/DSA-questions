@@ -104,6 +104,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SamWraith/DSA-questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3468-find-the-encrypted-string](https://github.com/SamWraith/DSA-questions/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
