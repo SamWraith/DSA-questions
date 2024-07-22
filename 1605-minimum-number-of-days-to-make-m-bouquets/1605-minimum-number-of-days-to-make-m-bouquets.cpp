@@ -33,5 +33,9 @@ public:
             else low = mid + 1;
         }
         return ans;
+        /* 
+         return low
+         we can also return low
+        */
     }
 };
