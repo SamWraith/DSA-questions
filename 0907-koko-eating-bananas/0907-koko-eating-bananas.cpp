@@ -24,6 +24,10 @@ public:
             }
             else low = mid + 1;
         }
-        return ans;
+        return low;
+        /* 
+        return low
+        we can also return low since, low will point to the ans after the end of BS
+        */
     }
 };
