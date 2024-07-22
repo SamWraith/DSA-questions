@@ -65,6 +65,7 @@
 | [0162-find-peak-element](https://github.com/SamWraith/DSA-questions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SamWraith/DSA-questions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -100,6 +101,7 @@
 | [0162-find-peak-element](https://github.com/SamWraith/DSA-questions/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
