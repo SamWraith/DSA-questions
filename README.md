@@ -22,6 +22,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SamWraith/DSA-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SamWraith/DSA-questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SamWraith/DSA-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/SamWraith/DSA-questions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/SamWraith/DSA-questions/tree/master/2846-robot-collisions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SamWraith/DSA-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/SamWraith/DSA-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SamWraith/DSA-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/SamWraith/DSA-questions/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SamWraith/DSA-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3468-find-the-encrypted-string](https://github.com/SamWraith/DSA-questions/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
@@ -207,4 +210,5 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamWraith/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SamWraith/DSA-questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
