@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamWraith/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -65,6 +68,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
