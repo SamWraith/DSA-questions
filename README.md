@@ -97,6 +97,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SamWraith/DSA-questions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/SamWraith/DSA-questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -144,6 +145,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SamWraith/DSA-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamWraith/DSA-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
