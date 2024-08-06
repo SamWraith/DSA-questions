@@ -107,6 +107,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SamWraith/DSA-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamWraith/DSA-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamWraith/DSA-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1646-kth-missing-positive-number](https://github.com/SamWraith/DSA-questions/tree/master/1646-kth-missing-positive-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SamWraith/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -153,6 +154,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SamWraith/DSA-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamWraith/DSA-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1646-kth-missing-positive-number](https://github.com/SamWraith/DSA-questions/tree/master/1646-kth-missing-positive-number) |
 ## Linked List
 |  |
 | ------- |
