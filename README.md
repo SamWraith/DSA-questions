@@ -175,12 +175,14 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/SamWraith/DSA-questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/SamWraith/DSA-questions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -189,6 +191,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
