@@ -95,6 +95,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/SamWraith/DSA-questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SamWraith/DSA-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -166,6 +167,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/SamWraith/DSA-questions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/SamWraith/DSA-questions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/SamWraith/DSA-questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -230,6 +232,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/SamWraith/DSA-questions/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
