@@ -100,6 +100,7 @@
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SamWraith/DSA-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -346,4 +347,9 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SamWraith/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
