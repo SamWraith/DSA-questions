@@ -98,6 +98,7 @@
 | [0035-search-insert-position](https://github.com/SamWraith/DSA-questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SamWraith/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
@@ -347,6 +348,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/SamWraith/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
