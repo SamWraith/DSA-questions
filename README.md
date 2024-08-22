@@ -378,6 +378,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+| [0476-number-complement](https://github.com/SamWraith/DSA-questions/tree/master/0476-number-complement) |
 ## Game Theory
 |  |
 | ------- |
