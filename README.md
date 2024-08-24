@@ -60,6 +60,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamWraith/DSA-questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -280,6 +283,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamWraith/DSA-questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
