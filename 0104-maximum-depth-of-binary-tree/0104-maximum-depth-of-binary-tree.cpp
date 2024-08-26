@@ -10,11 +10,25 @@
  * };
  */
 class Solution {
+    //check other solution for dfs
 public:
     int maxDepth(TreeNode* root) {
-        if(root == NULL) return 0;
-        int left = maxDepth(root->left);
-        int right = maxDepth(root->right);
-        return 1 + max(left, right);
+        // BFS method 
+
+        int ans = 0;
+        if(root == NULL) return ans;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int size  = q.size();
+            ans++;
+            for(int i = 0; i<size; i++){
+                root = q.front();
+                q.pop();
+                if(root->left) q.push(root->left);
+                if(root->right) q.push(root->right);
+            }
+        }
+        return ans;
     }
 };
