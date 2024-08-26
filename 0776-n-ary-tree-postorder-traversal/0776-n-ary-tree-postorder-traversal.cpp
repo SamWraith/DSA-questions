@@ -25,13 +25,13 @@ public:
             return {};
 
         vector<int> ans;
-        stack<Node*> stack{{root}};
+        stack<Node*> st{{root}};
 
-        while (!stack.empty()) {
-            root = stack.top(), stack.pop();
+        while (!st.empty()) {
+            root = st.top(), st.pop();
             ans.push_back(root->val);
             for (Node* child : root->children)
-                stack.push(child);
+                st.push(child);
         }
 
         ranges::reverse(ans);
