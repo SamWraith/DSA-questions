@@ -12,6 +12,7 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        // striver solution nice TC
         vector<vector<int>> ans;
         if(root == NULL) return ans;
         bool leftToRight = true;
