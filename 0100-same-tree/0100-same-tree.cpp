@@ -15,7 +15,13 @@ public:
         if(p == NULL && q == NULL) return true;
         if(p == NULL && q != NULL) return false;
         if(p != NULL && q == NULL) return false;
+        /* 
+        or for the above conditions we can also write
 
+        if(p == NULL || q == NULL)
+            return (p == q)
+        
+        */
         if(solve(p->left, q->left) == false) return false;
         if(solve(p->right, q->right) == false) return false;
         if(p->val != q->val) return false;
