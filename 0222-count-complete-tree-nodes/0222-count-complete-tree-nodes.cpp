@@ -11,15 +11,28 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int &cnt){
-        if(root == NULL) return;
-        cnt++;
-        solve(root->left, cnt);
-        solve(root->right, cnt);
+    int findLeftHeight(TreeNode* root){
+        int h = 0;
+        while(root){
+            h++;
+            root = root->left;
+        }
+        return h;
+    }
+    int findRightHeight(TreeNode* root){
+        int h = 0;
+        while(root){
+            h++;
+            root = root->right;
+        }
+        return h;
     }
     int countNodes(TreeNode* root) {
-        int cnt = 0;
-        solve(root, cnt);
-        return cnt;
+        if(root == NULL) return 0;
+        int lh = findLeftHeight(root);
+        int rh = findRightHeight(root);
+        if(lh == rh) 
+            return ( 1<<lh ) - 1; // pow(2, lh) - 1;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
