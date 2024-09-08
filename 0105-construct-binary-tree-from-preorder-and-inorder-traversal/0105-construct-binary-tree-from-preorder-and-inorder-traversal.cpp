@@ -18,7 +18,7 @@ public:
         if( preStart > preEnd || inStart > inEnd ){
             return NULL;
         }
-        cout<<preorder[preStart]<< " - ";
+
         TreeNode* root = new TreeNode(preorder[preStart]);
         int inRoot = inmap[root->val];
         int numsLeft = inRoot - inStart;
