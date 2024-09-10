@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
-        for (ListNode* curr = head; curr->next != nullptr;) {
+        for (ListNode* curr = head; curr->next != NULL;) {
             ListNode* inserted =
                 new ListNode(__gcd(curr->val, curr->next->val), curr->next);
             curr->next = inserted;
