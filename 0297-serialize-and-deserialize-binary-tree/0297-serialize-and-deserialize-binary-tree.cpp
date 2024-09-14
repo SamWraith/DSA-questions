@@ -35,7 +35,7 @@ public:
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
-        if(data.empty()) return NULL;
+        if(data.size() == 0) return NULL;
         stringstream s(data);
         string str;
         getline(s, str, ',');
