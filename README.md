@@ -373,6 +373,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -403,6 +404,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -510,6 +512,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
