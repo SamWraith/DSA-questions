@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    // recursive
     void solve(TreeNode* node, TreeNode* &prev){
         if(node == NULL) return;
         solve(node->right, prev);
