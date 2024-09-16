@@ -58,7 +58,8 @@ public:
         int m = arr.size();
         int n = arr[0].size();
         // return solve(m - 1, n - 1, arr);
-        vector<vector<int>> dp(m, vector<int> (n, -1));
-        return mem(m - 1, n - 1, arr, dp);
+        // vector<vector<int>> dp(m, vector<int> (n, -1));
+        // return mem(m - 1, n - 1, arr, dp);
+        return tab(m, n, arr);
     }
 };
