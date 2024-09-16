@@ -305,6 +305,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
@@ -497,6 +498,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SamWraith/DSA-questions/tree/master/0198-house-robber) |
@@ -611,4 +613,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
