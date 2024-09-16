@@ -151,6 +151,7 @@
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamWraith/DSA-questions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
@@ -454,6 +455,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0870-magic-squares-in-grid) |
@@ -499,6 +501,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/SamWraith/DSA-questions/tree/master/0198-house-robber) |
