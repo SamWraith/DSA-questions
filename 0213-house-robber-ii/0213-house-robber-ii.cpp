@@ -55,6 +55,7 @@ public:
         // vector<int> dp1(n-1, -1);
         // vector<int> dp2(n-1, -1);
         // return max(mem(temp1.size() - 1, temp1, dp1), mem(temp2.size() - 1, temp2, dp2));
-        return max(tab(temp1.size() , temp1), tab(temp2.size(), temp2));
+        // return max(tab(temp1.size() , temp1), tab(temp2.size(), temp2));
+        return max(space(temp1.size() , temp1), space(temp2.size(), temp2));
     }
 };
