@@ -31,7 +31,7 @@ public:
     int climbStairs(int n) {
         vector<int> dp(n+1, -1);
         // return solve(n);
-        return mem(n, dp);
+        // return mem(n, dp);
         return tab(n);
     }
 };
