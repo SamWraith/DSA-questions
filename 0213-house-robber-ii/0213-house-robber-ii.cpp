@@ -52,8 +52,9 @@ public:
             if(i != n-1) temp2.push_back(nums[i]);
         }
         // return max(solve(temp1.size() - 1, temp1), solve(temp2.size() - 1, temp2));
-        vector<int> dp1(n-1, -1);
-        vector<int> dp2(n-1, -1);
-        return max(mem(temp1.size() - 1, temp1, dp1), mem(temp2.size() - 1, temp2, dp2));
+        // vector<int> dp1(n-1, -1);
+        // vector<int> dp2(n-1, -1);
+        // return max(mem(temp1.size() - 1, temp1, dp1), mem(temp2.size() - 1, temp2, dp2));
+        return max(tab(temp1.size() , temp1), tab(temp2.size(), temp2));
     }
 };
