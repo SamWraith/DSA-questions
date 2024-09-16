@@ -27,11 +27,26 @@ private:
         }
         return dp[n];
     }
+    int space(int n){
+        // vector<int> dp(n+1, 0);
+        int prev1 = 1;
+        int prev2 = 1;
+        for(int i = 2; i<=n; i++){
+            int left = prev1;
+            int right = prev2;
+
+            int sum = left + right;
+            prev2 = prev1;
+            prev1 = sum;
+        }
+        return prev1;
+    }
 public:
     int climbStairs(int n) {
         vector<int> dp(n+1, -1);
         // return solve(n);
         // return mem(n, dp);
-        return tab(n);
+        // return tab(n);
+        return space(n);
     }
 };
