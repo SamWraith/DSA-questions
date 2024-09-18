@@ -38,6 +38,29 @@ private:
             mini = min(mini, dp[n-1][i]);
         return mini;
     }
+    int space(vector<vector<int>> &matrix, int n, int m){
+        vector<int> prev(m, 0);
+        for(int i = 0; i<m; i++)
+            prev[i] = matrix[0][i];
+        for(int i = 1; i<n; i++){
+            vector<int> curr(m, 0);
+            for(int j = 0; j<m; j++){
+                int up = matrix[i][j] + prev[j];
+                int ld = matrix[i][j];
+                if(j>0) ld += prev[j - 1];
+                else ld = 1e9;
+                int rd = matrix[i][j];
+                if(j<m-1) rd += prev[j + 1];
+                else rd = 1e9;
+                curr[j] = min(up, min(ld, rd));
+            }
+            prev = curr;
+        }
+        int mini = 1e9;
+        for(int i = 0; i<m; i++)
+            mini = min(mini, prev[i]);
+        return mini;
+    }
 public:
     int minFallingPathSum(vector<vector<int>>& matrix) {
         int n = matrix.size();
@@ -55,6 +78,7 @@ public:
 
         // tabulation
 
-        return tab(matrix, n, m);
+        // return tab(matrix, n, m);
+        return space(matrix, n, m);
     }
 };
