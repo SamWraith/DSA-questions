@@ -28,11 +28,28 @@ private:
         }
         return dp[0][0];
     }
+    int space(vector<vector<int>> &triangle){
+        int n = triangle.size();
+        vector<int> next(n, 0);
+        for(int i = 0; i<triangle[n - 1].size(); i++)
+            next[i] = triangle[n - 1][i];
+        for(int i = n - 2; i>= 0; i--){
+            vector<int> curr(n, 0);
+            for(int j = i; j>=0; j--){
+                int down = triangle[i][j] + next[j];
+                int diag = triangle[i][j] + next[j+1];
+                curr[j] = min(down, diag);
+            }
+            next = curr;
+        }
+        return next[0];
+    }
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         // return solve(0, 0, triangle);
         // vector<vector<int>> dp(triangle.size(), vector<int>(triangle[triangle.size() - 1].size(), -1));
         // return mem(0, 0, triangle, dp);
-        return tab(triangle);
+        // return tab(triangle);
+        return space(triangle);
     }
 };
