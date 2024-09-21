@@ -85,6 +85,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/SamWraith/DSA-questions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamWraith/DSA-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -650,4 +651,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/SamWraith/DSA-questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
