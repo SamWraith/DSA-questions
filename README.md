@@ -174,6 +174,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamWraith/DSA-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/SamWraith/DSA-questions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0906-walking-robot-simulation) |
@@ -279,6 +280,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SamWraith/DSA-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -581,6 +583,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SamWraith/DSA-questions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -669,4 +672,12 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SamWraith/DSA-questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SamWraith/DSA-questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
