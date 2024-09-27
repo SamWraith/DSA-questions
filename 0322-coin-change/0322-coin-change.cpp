@@ -43,6 +43,27 @@ private:
         if(ans >= 1e9) return -1;
         else return ans;
     }
+    int space(int n, int target, vector<int> &coins){
+        vector<int> prev(target+1, 0), curr(target+1, 0);
+        for(int t = 0; t <= target; t++){
+            if(t % coins[0] == 0)
+                prev[t] = t/coins[0];
+            else prev[t] = 1e9;
+        }
+        for(int i = 1; i<n; i++){
+            for(int t = 0; t<=target; t++){
+                int notTake = 0 + prev[t];
+                int take = INT_MAX;
+                if(t >= coins[i])
+                    take = 1 + curr[t - coins[i]];
+                curr[t] = min(take, notTake);
+            }
+            prev = curr;
+        }
+        int ans = prev[target];
+        if(ans >= 1e9) return -1;
+        else return ans;
+    }
 public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
@@ -52,7 +73,8 @@ public:
         // if(ans >= 1e9) return -1;
         // return ans;
         
-        return tab(n, amount, coins);
+        // return tab(n, amount, coins);
+        return space(n, amount, coins);
 
 
 
