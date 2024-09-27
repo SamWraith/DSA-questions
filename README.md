@@ -176,6 +176,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SamWraith/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SamWraith/DSA-questions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamWraith/DSA-questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -547,6 +548,7 @@
 | [0322-coin-change](https://github.com/SamWraith/DSA-questions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SamWraith/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/SamWraith/DSA-questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
 | [0967-minimum-falling-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
@@ -625,6 +627,7 @@
 | [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamWraith/DSA-questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
