@@ -27,7 +27,8 @@ private:
         vector<vector<bool>> dp(n, vector<bool>(sum+1, 0));
         for(int i = 0; i<n; i++)
             dp[i][0] = true;
-        dp[0][arr[0]] = true;
+        if(arr[0] <= sum)
+            dp[0][arr[0]] = true;
         for(int i = 1; i<n; i++){
             for(int target = 1; target<=sum; target++){
                 bool notTake = dp[i - 1][ target];
@@ -73,8 +74,9 @@ public:
             tot += num;
         if(tot & 1) return false;
         int target = tot/2;
-        vector<vector<int>> dp(n, vector<int>(target+1, -1));
-        return mem(n - 1, target, nums, dp);
-        // return space(n, nums, target);
+        // vector<vector<int>> dp(n, vector<int>(target+1, -1));
+        // return mem(n - 1, target, nums, dp);
+        // return tab(n, nums, target);
+        return space(n, nums, target);
     }
 };
