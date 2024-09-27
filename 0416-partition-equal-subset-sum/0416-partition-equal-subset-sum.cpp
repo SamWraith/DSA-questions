@@ -76,7 +76,7 @@ public:
         int target = tot/2;
         // vector<vector<int>> dp(n, vector<int>(target+1, -1));
         // return mem(n - 1, target, nums, dp);
-        // return tab(n, nums, target);
-        return space(n, nums, target);
+        return tab(n, nums, target);
+        // return space(n, nums, target);
     }
 };
