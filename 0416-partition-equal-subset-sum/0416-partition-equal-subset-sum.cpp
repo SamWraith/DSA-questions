@@ -56,15 +56,15 @@ private:
         }
         return prev[sum];
     }
-    bool isSubsetSum(vector<int>arr, int sum){
-        // code here 
-        int n = arr.size();
-        // return solve(n - 1, sum, arr);
-        // vector<vector<int>> dp(n, vector<int>(sum+1, -1));
-        // return mem(n - 1, sum, arr, dp);
-        // return tab(n, arr, sum);
-        return space(n, arr, sum);
-    }
+    // bool isSubsetSum(vector<int>arr, int sum){
+    //     // code here 
+    //     int n = arr.size();
+    //     // return solve(n - 1, sum, arr);
+    //     // vector<vector<int>> dp(n, vector<int>(sum+1, -1));
+    //     // return mem(n - 1, sum, arr, dp);
+    //     // return tab(n, arr, sum);
+    //     return space(n, arr, sum);
+    // }
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -73,6 +73,8 @@ public:
             tot += num;
         if(tot & 1) return false;
         int target = tot/2;
-        return space(n, nums, target);
+        vector<vector<int>> dp(n, vector<int>(target+1, -1));
+        return mem(n - 1, target, nums, dp);
+        // return space(n, nums, target);
     }
 };
