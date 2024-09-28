@@ -368,6 +368,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -554,6 +555,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SamWraith/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SamWraith/DSA-questions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/SamWraith/DSA-questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
