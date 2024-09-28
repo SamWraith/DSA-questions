@@ -376,6 +376,7 @@
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamWraith/DSA-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -563,6 +564,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/SamWraith/DSA-questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamWraith/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SamWraith/DSA-questions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
