@@ -451,6 +451,7 @@
 | [1170-shortest-common-supersequence](https://github.com/SamWraith/DSA-questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SamWraith/DSA-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/SamWraith/DSA-questions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamWraith/DSA-questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
