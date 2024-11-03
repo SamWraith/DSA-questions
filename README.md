@@ -447,6 +447,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/SamWraith/DSA-questions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/SamWraith/DSA-questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
@@ -806,6 +807,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/SamWraith/DSA-questions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
