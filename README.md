@@ -65,6 +65,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamWraith/DSA-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SamWraith/DSA-questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SamWraith/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SamWraith/DSA-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SamWraith/DSA-questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamWraith/DSA-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/SamWraith/DSA-questions/tree/master/2502-sort-the-people) |
@@ -268,6 +269,7 @@
 | [2155-find-missing-observations](https://github.com/SamWraith/DSA-questions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamWraith/DSA-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SamWraith/DSA-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SamWraith/DSA-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SamWraith/DSA-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SamWraith/DSA-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -374,6 +376,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SamWraith/DSA-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SamWraith/DSA-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SamWraith/DSA-questions/tree/master/2047-find-a-peak-element-ii) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SamWraith/DSA-questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/SamWraith/DSA-questions/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
