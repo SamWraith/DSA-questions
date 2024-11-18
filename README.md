@@ -298,6 +298,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SamWraith/DSA-questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamWraith/DSA-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SamWraith/DSA-questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SamWraith/DSA-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -722,6 +723,7 @@
 | [1755-defuse-the-bomb](https://github.com/SamWraith/DSA-questions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SamWraith/DSA-questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SamWraith/DSA-questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SamWraith/DSA-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Biconnected Component
 |  |
 | ------- |
