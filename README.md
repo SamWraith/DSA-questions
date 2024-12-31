@@ -266,6 +266,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SamWraith/DSA-questions/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/SamWraith/DSA-questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SamWraith/DSA-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -807,6 +808,7 @@
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/SamWraith/DSA-questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SamWraith/DSA-questions/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/SamWraith/DSA-questions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/SamWraith/DSA-questions/tree/master/1196-filling-bookcase-shelves) |
