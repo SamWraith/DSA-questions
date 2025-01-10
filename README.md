@@ -263,6 +263,7 @@
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/SamWraith/DSA-questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/SamWraith/DSA-questions/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/SamWraith/DSA-questions/tree/master/1002-maximum-width-ramp) |
@@ -386,6 +387,7 @@
 | [0870-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/SamWraith/DSA-questions/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -569,6 +571,7 @@
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/SamWraith/DSA-questions/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/SamWraith/DSA-questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1170-shortest-common-supersequence](https://github.com/SamWraith/DSA-questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
