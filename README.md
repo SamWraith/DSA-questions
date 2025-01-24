@@ -44,6 +44,7 @@
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/SamWraith/DSA-questions/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/SamWraith/DSA-questions/tree/master/1325-path-with-maximum-probability) |
@@ -150,6 +151,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SamWraith/DSA-questions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -188,6 +190,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/SamWraith/DSA-questions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -214,6 +217,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
