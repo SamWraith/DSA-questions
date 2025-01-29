@@ -43,6 +43,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/SamWraith/DSA-questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -151,6 +152,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamWraith/DSA-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SamWraith/DSA-questions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
@@ -192,6 +194,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/SamWraith/DSA-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamWraith/DSA-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/SamWraith/DSA-questions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/SamWraith/DSA-questions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SamWraith/DSA-questions/tree/master/0820-find-eventual-safe-states) |
@@ -230,6 +233,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/SamWraith/DSA-questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/SamWraith/DSA-questions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
