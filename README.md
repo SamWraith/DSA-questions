@@ -611,6 +611,7 @@
 | [2155-find-missing-observations](https://github.com/SamWraith/DSA-questions/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/SamWraith/DSA-questions/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/SamWraith/DSA-questions/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SamWraith/DSA-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SamWraith/DSA-questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -1040,6 +1041,7 @@
 | [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SamWraith/DSA-questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamWraith/DSA-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SamWraith/DSA-questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
