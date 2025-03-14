@@ -329,6 +329,7 @@
 | [1293-three-consecutive-odds](https://github.com/SamWraith/DSA-questions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/SamWraith/DSA-questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SamWraith/DSA-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamWraith/DSA-questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/SamWraith/DSA-questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SamWraith/DSA-questions/tree/master/1396-count-servers-that-communicate) |
@@ -561,6 +562,7 @@
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SamWraith/DSA-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/SamWraith/DSA-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SamWraith/DSA-questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SamWraith/DSA-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
