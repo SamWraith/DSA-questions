@@ -379,6 +379,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SamWraith/DSA-questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SamWraith/DSA-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/SamWraith/DSA-questions/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/SamWraith/DSA-questions/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamWraith/DSA-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/SamWraith/DSA-questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1319,6 +1320,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SamWraith/DSA-questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SamWraith/DSA-questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3548-find-the-count-of-good-integers](https://github.com/SamWraith/DSA-questions/tree/master/3548-find-the-count-of-good-integers) |
