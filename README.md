@@ -310,6 +310,7 @@
 | [0051-n-queens](https://github.com/SamWraith/DSA-questions/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
@@ -539,6 +540,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
@@ -1026,6 +1028,7 @@
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SamWraith/DSA-questions/tree/master/0407-trapping-rain-water-ii) |
