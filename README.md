@@ -305,6 +305,7 @@
 | [0854-making-a-large-island](https://github.com/SamWraith/DSA-questions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SamWraith/DSA-questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/SamWraith/DSA-questions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SamWraith/DSA-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
@@ -852,6 +853,7 @@
 | [0868-push-dominoes](https://github.com/SamWraith/DSA-questions/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/SamWraith/DSA-questions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/SamWraith/DSA-questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SamWraith/DSA-questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/SamWraith/DSA-questions/tree/master/1170-shortest-common-supersequence) |
