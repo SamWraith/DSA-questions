@@ -1,30 +1,31 @@
 class Solution {
 public:
     int findKthNumber(int n, int k) {
-        long ans = 1;
+        int curr = 1;
+        k--;
 
-        for (int i = 1; i < k;) {
-            const long gap = getGap(ans, ans + 1, n);
-            if (i + gap <= k) {
-                i += gap;
-                ++ans;
+        while (k > 0) {
+            int step = countSteps(n, curr, curr + 1);
+            if (step <= k) {
+                curr++;
+                k -= step;
             } else {
-                ++i;
-                ans *= 10;
+                curr *= 10;
+                k--;
             }
         }
 
-        return ans;
+        return curr;
     }
 
 private:
-    long getGap(long a, long b, long n) {
-        long gap = 0;
-        while (a <= n) {
-            gap += min(n + 1, b) - a;
-            a *= 10;
-            b *= 10;
+    int countSteps(int n, long prefix1, long prefix2) {
+        int steps = 0;
+        while (prefix1 <= n) {
+            steps += min((long)(n + 1), prefix2) - prefix1;
+            prefix1 *= 10;
+            prefix2 *= 10;
         }
-        return gap;
-    };
+        return steps;
+    }
 };
