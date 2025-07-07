@@ -462,6 +462,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SamWraith/DSA-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/SamWraith/DSA-questions/tree/master/2047-find-a-peak-element-ii) |
@@ -638,6 +639,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SamWraith/DSA-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SamWraith/DSA-questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/SamWraith/DSA-questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SamWraith/DSA-questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1384,6 +1386,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SamWraith/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
