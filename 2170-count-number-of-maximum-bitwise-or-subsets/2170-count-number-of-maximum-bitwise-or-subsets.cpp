@@ -1,22 +1,32 @@
 class Solution {
 public:
     int countMaxOrSubsets(vector<int>& nums) {
-        const int ors = accumulate(nums.begin(), nums.end(), 0, bit_or<>());
-        int ans = 0;
-        dfs(nums, 0, 0, ors, ans);
-        return ans;
-    }
-
-private:
-    void dfs(const vector<int>& nums, int i, int path, const int& ors,
-             int& ans) {
-        if (i == nums.size()) {
-            if (path == ors)
-                ++ans;
-            return;
+        // Calculate the maximum possible OR value
+        int maxOrValue = 0;
+        for (int num : nums) {
+            maxOrValue |= num;
         }
 
-        dfs(nums, i + 1, path, ors, ans);
-        dfs(nums, i + 1, path | nums[i], ors, ans);
+        int totalSubsets = 1 << nums.size();  // 2^n subsets
+        int subsetsWithMaxOr = 0;
+
+        // Iterate through all possible subsets
+        for (int subsetMask = 0; subsetMask < totalSubsets; subsetMask++) {
+            int currentOrValue = 0;
+
+            // Calculate OR value for the current subset
+            for (int i = 0; i < nums.size(); i++) {
+                if (((subsetMask >> i) & 1) == 1) {
+                    currentOrValue |= nums[i];
+                }
+            }
+
+            // If current subset's OR equals maxOrValue, increment count
+            if (currentOrValue == maxOrValue) {
+                subsetsWithMaxOr++;
+            }
+        }
+
+        return subsetsWithMaxOr;
     }
 };
