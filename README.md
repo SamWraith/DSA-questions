@@ -873,6 +873,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
@@ -925,6 +926,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1507,6 +1509,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SamWraith/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/SamWraith/DSA-questions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamWraith/DSA-questions/tree/master/1435-xor-queries-of-a-subarray) |
