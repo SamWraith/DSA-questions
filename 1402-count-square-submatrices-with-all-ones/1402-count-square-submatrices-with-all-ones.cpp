@@ -1,14 +1,18 @@
 class Solution {
- public:
-  int countSquares(vector<vector<int>>& matrix) {
-    for (int i = 0; i < matrix.size(); ++i)
-      for (int j = 0; j < matrix[0].size(); ++j)
-        if (matrix[i][j] == 1 && i > 0 && j > 0)
-          matrix[i][j] +=
-              min({matrix[i - 1][j - 1], matrix[i - 1][j], matrix[i][j - 1]});
-    return accumulate(matrix.begin(), matrix.end(), 0,
-                      [](int subtotal, const vector<int>& row) {
-      return subtotal + accumulate(row.begin(), row.end(), 0);
-    });
-  }
+public:
+    int countSquares(vector<vector<int>>& matrix) {
+        int row = matrix.size(), col = matrix[0].size();
+        vector<vector<int>> dp(row + 1, vector<int>(col + 1, 0));
+        int ans = 0;
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (matrix[i][j] == 1) {
+                    dp[i + 1][j + 1] =
+                        min({dp[i][j + 1], dp[i + 1][j], dp[i][j]}) + 1;
+                    ans += dp[i + 1][j + 1];
+                }
+            }
+        }
+        return ans;
+    }
 };
