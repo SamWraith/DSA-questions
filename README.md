@@ -358,6 +358,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SamWraith/DSA-questions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SamWraith/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SamWraith/DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamWraith/DSA-questions/tree/master/0040-combination-sum-ii) |
@@ -648,6 +649,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SamWraith/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1220,6 +1222,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SamWraith/DSA-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SamWraith/DSA-questions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/SamWraith/DSA-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SamWraith/DSA-questions/tree/master/0064-minimum-path-sum) |
