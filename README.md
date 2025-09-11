@@ -155,6 +155,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamWraith/DSA-questions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SamWraith/DSA-questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/SamWraith/DSA-questions/tree/master/2846-robot-collisions) |
+| [2887-sort-vowels-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SamWraith/DSA-questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SamWraith/DSA-questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SamWraith/DSA-questions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1067,6 +1068,7 @@
 | [2727-number-of-senior-citizens](https://github.com/SamWraith/DSA-questions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SamWraith/DSA-questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SamWraith/DSA-questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/SamWraith/DSA-questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SamWraith/DSA-questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
