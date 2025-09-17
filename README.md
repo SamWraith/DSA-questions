@@ -192,6 +192,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/SamWraith/DSA-questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SamWraith/DSA-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SamWraith/DSA-questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamWraith/DSA-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/SamWraith/DSA-questions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamWraith/DSA-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -547,6 +548,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SamWraith/DSA-questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamWraith/DSA-questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SamWraith/DSA-questions/tree/master/2411-spiral-matrix-iv) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/SamWraith/DSA-questions/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -724,6 +726,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/SamWraith/DSA-questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SamWraith/DSA-questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SamWraith/DSA-questions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SamWraith/DSA-questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/SamWraith/DSA-questions/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/SamWraith/DSA-questions/tree/master/2502-sort-the-people) |
@@ -1065,6 +1068,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SamWraith/DSA-questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/SamWraith/DSA-questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SamWraith/DSA-questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SamWraith/DSA-questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/SamWraith/DSA-questions/tree/master/2465-shifting-letters-ii) |
@@ -1545,6 +1549,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SamWraith/DSA-questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1722,6 +1727,7 @@
 | [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamWraith/DSA-questions/tree/master/3791-fruits-into-baskets-iii) |
