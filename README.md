@@ -660,6 +660,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamWraith/DSA-questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamWraith/DSA-questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -767,6 +768,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SamWraith/DSA-questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamWraith/DSA-questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamWraith/DSA-questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SamWraith/DSA-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -856,6 +858,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/SamWraith/DSA-questions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamWraith/DSA-questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 ## Linked List
 |  |
 | ------- |
@@ -1002,6 +1005,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SamWraith/DSA-questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SamWraith/DSA-questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -1553,6 +1557,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/SamWraith/DSA-questions/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1735,6 +1740,7 @@
 | [3678-design-task-manager](https://github.com/SamWraith/DSA-questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamWraith/DSA-questions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
