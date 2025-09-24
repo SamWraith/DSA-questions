@@ -673,6 +673,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamWraith/DSA-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/SamWraith/DSA-questions/tree/master/0432-all-oone-data-structure) |
@@ -924,6 +925,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamWraith/DSA-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
@@ -1019,6 +1021,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/SamWraith/DSA-questions/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/SamWraith/DSA-questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SamWraith/DSA-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/SamWraith/DSA-questions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
