@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/SamWraith/DSA-questions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SamWraith/DSA-questions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamWraith/DSA-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamWraith/DSA-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/SamWraith/DSA-questions/tree/master/0670-maximum-swap) |
@@ -114,6 +115,7 @@
 | [0455-assign-cookies](https://github.com/SamWraith/DSA-questions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamWraith/DSA-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
@@ -401,6 +403,7 @@
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/SamWraith/DSA-questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SamWraith/DSA-questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/SamWraith/DSA-questions/tree/master/0679-24-game) |
@@ -785,6 +788,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SamWraith/DSA-questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SamWraith/DSA-questions/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamWraith/DSA-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/SamWraith/DSA-questions/tree/master/0768-partition-labels) |
@@ -826,6 +830,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamWraith/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
