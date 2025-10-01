@@ -1,16 +1,18 @@
-class Solution
-{
-    public:
-        int numWaterBottles(int numBottles, int numExchange)
-        {
-            int ans = numBottles;
+class Solution {
+public:
+    int numWaterBottles(int numBottles, int numExchange) {
+        int consumedBottles = 0;
 
-            while (numBottles >= numExchange)
-            {
-                ans += numBottles / numExchange;
-                numBottles = numBottles / numExchange + numBottles % numExchange;
-            }
+        while (numBottles >= numExchange) {
+            // Consume numExchange full bottles.
+            consumedBottles += numExchange;
+            numBottles -= numExchange;
 
-            return ans;
+            // Exchange them for one full bottle.
+            numBottles++;
         }
+
+        // Consume the remaining numBottles (<numExchange).
+        return consumedBottles + numBottles;
+    }
 };
