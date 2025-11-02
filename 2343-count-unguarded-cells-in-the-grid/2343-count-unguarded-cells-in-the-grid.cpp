@@ -1,52 +1,79 @@
 class Solution {
 public:
+    const int UNGUARDED = 0;
+    const int GUARDED = 1;
+    const int GUARD = 2;
+    const int WALL = 3;
+
     int countUnguarded(int m, int n, vector<vector<int>>& guards,
                        vector<vector<int>>& walls) {
-        int ans = 0;
-        vector<vector<char>> grid(m, vector<char>(n));
-        vector<vector<char>> left(m, vector<char>(n));
-        vector<vector<char>> right(m, vector<char>(n));
-        vector<vector<char>> up(m, vector<char>(n));
-        vector<vector<char>> down(m, vector<char>(n));
+        vector<vector<int>> grid(m, vector<int>(n, UNGUARDED));
 
-        for (const vector<int>& guard : guards)
-            grid[guard[0]][guard[1]] = 'G';
-
-        for (const vector<int>& wall : walls)
-            grid[wall[0]][wall[1]] = 'W';
-
-        for (int i = 0; i < m; ++i) {
-            char lastCell = 0;
-            for (int j = 0; j < n; ++j)
-                recordOrFill(grid[i][j], lastCell, left[i][j]);
-            lastCell = 0;
-            for (int j = n - 1; j >= 0; --j)
-                recordOrFill(grid[i][j], lastCell, right[i][j]);
+        // Mark guards' positions
+        for (const auto& guard : guards) {
+            grid[guard[0]][guard[1]] = GUARD;
         }
 
-        for (int j = 0; j < n; ++j) {
-            char lastCell = 0;
-            for (int i = 0; i < m; ++i)
-                recordOrFill(grid[i][j], lastCell, up[i][j]);
-            lastCell = 0;
-            for (int i = m - 1; i >= 0; --i)
-                recordOrFill(grid[i][j], lastCell, down[i][j]);
+        // Mark walls' positions
+        for (const auto& wall : walls) {
+            grid[wall[0]][wall[1]] = WALL;
         }
 
-        for (int i = 0; i < m; ++i)
-            for (int j = 0; j < n; ++j)
-                if (grid[i][j] == 0 && left[i][j] != 'G' &&
-                    right[i][j] != 'G' && up[i][j] != 'G' && down[i][j] != 'G')
-                    ++ans;
+        // Helper lambda to update visibility
+        auto updateCellVisibility = [&](int row, int col,
+                                        bool isGuardLineActive) -> bool {
+            if (grid[row][col] == GUARD) {
+                return true;
+            }
+            if (grid[row][col] == WALL) {
+                return false;
+            }
+            if (isGuardLineActive) {
+                grid[row][col] = GUARDED;
+            }
+            return isGuardLineActive;
+        };
 
-        return ans;
-    }
+        // Horizontal passes
+        for (int row = 0; row < m; row++) {
+            bool isGuardLineActive = grid[row][0] == GUARD;
+            for (int col = 1; col < n; col++) {
+                isGuardLineActive =
+                    updateCellVisibility(row, col, isGuardLineActive);
+            }
 
-private:
-    void recordOrFill(char currCell, char& lastCell, char& infoCell) {
-        if (currCell == 'G' || currCell == 'W')
-            lastCell = currCell;
-        else
-            infoCell = lastCell;
+            isGuardLineActive = grid[row][n - 1] == GUARD;
+            for (int col = n - 2; col >= 0; col--) {
+                isGuardLineActive =
+                    updateCellVisibility(row, col, isGuardLineActive);
+            }
+        }
+
+        // Vertical passes
+        for (int col = 0; col < n; col++) {
+            bool isGuardLineActive = grid[0][col] == GUARD;
+            for (int row = 1; row < m; row++) {
+                isGuardLineActive =
+                    updateCellVisibility(row, col, isGuardLineActive);
+            }
+
+            isGuardLineActive = grid[m - 1][col] == GUARD;
+            for (int row = m - 2; row >= 0; row--) {
+                isGuardLineActive =
+                    updateCellVisibility(row, col, isGuardLineActive);
+            }
+        }
+
+        // Count unguarded cells
+        int count = 0;
+        for (int row = 0; row < m; row++) {
+            for (int col = 0; col < n; col++) {
+                if (grid[row][col] == UNGUARDED) {
+                    count++;
+                }
+            }
+        }
+
+        return count;
     }
 };
