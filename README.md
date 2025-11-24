@@ -478,6 +478,7 @@
 | [1002-maximum-width-ramp](https://github.com/SamWraith/DSA-questions/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/SamWraith/DSA-questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/SamWraith/DSA-questions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SamWraith/DSA-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/SamWraith/DSA-questions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamWraith/DSA-questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1797,6 +1798,7 @@
 | [0342-power-of-four](https://github.com/SamWraith/DSA-questions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/SamWraith/DSA-questions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/SamWraith/DSA-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamWraith/DSA-questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamWraith/DSA-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SamWraith/DSA-questions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
