@@ -723,6 +723,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/SamWraith/DSA-questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/SamWraith/DSA-questions/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SamWraith/DSA-questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamWraith/DSA-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/SamWraith/DSA-questions/tree/master/3583-count-special-triplets) |
@@ -1139,6 +1140,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SamWraith/DSA-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/SamWraith/DSA-questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SamWraith/DSA-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamWraith/DSA-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1898,6 +1900,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SamWraith/DSA-questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SamWraith/DSA-questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1933,6 +1936,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamWraith/DSA-questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/SamWraith/DSA-questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/SamWraith/DSA-questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
