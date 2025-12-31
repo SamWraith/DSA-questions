@@ -307,6 +307,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamWraith/DSA-questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamWraith/DSA-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamWraith/DSA-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SamWraith/DSA-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SamWraith/DSA-questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -363,6 +364,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamWraith/DSA-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamWraith/DSA-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/SamWraith/DSA-questions/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SamWraith/DSA-questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SamWraith/DSA-questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -406,6 +408,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamWraith/DSA-questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/SamWraith/DSA-questions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SamWraith/DSA-questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SamWraith/DSA-questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SamWraith/DSA-questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -578,6 +581,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/SamWraith/DSA-questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/SamWraith/DSA-questions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -996,6 +1000,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SamWraith/DSA-questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SamWraith/DSA-questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/SamWraith/DSA-questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SamWraith/DSA-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/SamWraith/DSA-questions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/SamWraith/DSA-questions/tree/master/2054-two-best-non-overlapping-events) |
@@ -1534,6 +1539,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamWraith/DSA-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/SamWraith/DSA-questions/tree/master/1876-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/SamWraith/DSA-questions/tree/master/2047-find-a-peak-element-ii) |
