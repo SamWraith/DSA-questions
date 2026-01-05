@@ -43,6 +43,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/SamWraith/DSA-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SamWraith/DSA-questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SamWraith/DSA-questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SamWraith/DSA-questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -583,6 +584,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SamWraith/DSA-questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1541,6 +1543,7 @@
 | [1876-map-of-highest-peak](https://github.com/SamWraith/DSA-questions/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/SamWraith/DSA-questions/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/SamWraith/DSA-questions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/2089-maximum-matrix-sum) |
