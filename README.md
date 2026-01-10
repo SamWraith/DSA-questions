@@ -1250,6 +1250,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/SamWraith/DSA-questions/tree/master/0768-partition-labels) |
@@ -1666,6 +1667,7 @@
 | [0650-2-keys-keyboard](https://github.com/SamWraith/DSA-questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/SamWraith/DSA-questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/SamWraith/DSA-questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SamWraith/DSA-questions/tree/master/0867-new-21-game) |
