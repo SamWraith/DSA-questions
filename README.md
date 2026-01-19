@@ -522,6 +522,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/SamWraith/DSA-questions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamWraith/DSA-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SamWraith/DSA-questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/SamWraith/DSA-questions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/SamWraith/DSA-questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -998,6 +999,7 @@
 | [0794-swim-in-rising-water](https://github.com/SamWraith/DSA-questions/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/SamWraith/DSA-questions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SamWraith/DSA-questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SamWraith/DSA-questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1550,6 +1552,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/SamWraith/DSA-questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/SamWraith/DSA-questions/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/SamWraith/DSA-questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/SamWraith/DSA-questions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamWraith/DSA-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1819,6 +1822,7 @@
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/1240-stone-game-ii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SamWraith/DSA-questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SamWraith/DSA-questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SamWraith/DSA-questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1477-product-of-the-last-k-numbers) |
