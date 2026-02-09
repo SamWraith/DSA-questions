@@ -30,6 +30,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SamWraith/DSA-questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamWraith/DSA-questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/SamWraith/DSA-questions/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/SamWraith/DSA-questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SamWraith/DSA-questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/SamWraith/DSA-questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -304,6 +305,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/SamWraith/DSA-questions/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamWraith/DSA-questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/SamWraith/DSA-questions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SamWraith/DSA-questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1473,6 +1475,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamWraith/DSA-questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamWraith/DSA-questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1534,6 +1537,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/SamWraith/DSA-questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SamWraith/DSA-questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SamWraith/DSA-questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1618,6 +1622,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
@@ -1923,6 +1928,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamWraith/DSA-questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
