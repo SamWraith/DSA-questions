@@ -1083,6 +1083,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/SamWraith/DSA-questions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0906-walking-robot-simulation) |
@@ -1134,6 +1135,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SamWraith/DSA-questions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SamWraith/DSA-questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SamWraith/DSA-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
@@ -1261,6 +1263,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/SamWraith/DSA-questions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/SamWraith/DSA-questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SamWraith/DSA-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/SamWraith/DSA-questions/tree/master/0179-largest-number) |
@@ -1967,6 +1970,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/SamWraith/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
