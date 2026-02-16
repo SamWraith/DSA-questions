@@ -1626,6 +1626,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SamWraith/DSA-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0190-reverse-bits](https://github.com/SamWraith/DSA-questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
@@ -1972,6 +1973,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/SamWraith/DSA-questions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SamWraith/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SamWraith/DSA-questions/tree/master/0342-power-of-four) |
