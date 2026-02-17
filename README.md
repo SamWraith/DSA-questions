@@ -1954,6 +1954,7 @@
 | [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamWraith/DSA-questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+| [0401-binary-watch](https://github.com/SamWraith/DSA-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SamWraith/DSA-questions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0756-pyramid-transition-matrix) |
@@ -1977,6 +1978,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SamWraith/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SamWraith/DSA-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SamWraith/DSA-questions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/SamWraith/DSA-questions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SamWraith/DSA-questions/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/0934-bitwise-ors-of-subarrays) |
