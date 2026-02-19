@@ -964,6 +964,7 @@
 | [0567-permutation-in-string](https://github.com/SamWraith/DSA-questions/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/SamWraith/DSA-questions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamWraith/DSA-questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/SamWraith/DSA-questions/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/SamWraith/DSA-questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SamWraith/DSA-questions/tree/master/0868-push-dominoes) |
@@ -1279,6 +1280,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SamWraith/DSA-questions/tree/master/0664-strange-printer) |
+| [0696-count-binary-substrings](https://github.com/SamWraith/DSA-questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0756-pyramid-transition-matrix) |
