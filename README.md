@@ -139,6 +139,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SamWraith/DSA-questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SamWraith/DSA-questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SamWraith/DSA-questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/SamWraith/DSA-questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
@@ -1284,6 +1285,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SamWraith/DSA-questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0756-pyramid-transition-matrix](https://github.com/SamWraith/DSA-questions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/SamWraith/DSA-questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/SamWraith/DSA-questions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/SamWraith/DSA-questions/tree/master/0868-push-dominoes) |
@@ -1630,6 +1632,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/SamWraith/DSA-questions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SamWraith/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/SamWraith/DSA-questions/tree/master/0948-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/SamWraith/DSA-questions/tree/master/1382-balance-a-binary-search-tree) |
