@@ -1,29 +1,39 @@
-class Solution
-{
-    public:
-        int numSteps(string s)
-        {
-            int ans = 0;
+class Solution {
+public:
+    void divideByTwo(string& s) { s.pop_back(); }
 
-           	// All the trailing 0s can be popped by 1 step.
-            while (s.back() == '0')
-            {
-                s.pop_back();
-                ++ans;
+    void addOne(string& s) {
+        int i = s.size() - 1;
+
+        // Iterating while the character is 1 and changing to 0 to carry the 1.
+        while (i >= 0 && s[i] != '0') {
+            s[i] = '0';
+            i--;
+        }
+
+        if (i < 0) {
+            s = '1' + s;
+        } else {
+            s[i] = '1';
+        }
+    }
+
+    int numSteps(string s) {
+        int N = s.size();
+
+        int operations = 0;
+        while (s.size() > 1) {
+            N = s.size();
+
+            if (s[N - 1] == '0') {
+                divideByTwo(s);
+            } else {
+                addOne(s);
             }
 
-            if (s == "1")
-                return ans;
-
-           	// `s` is now odd, so add 1 to `s` and cost 1 step.
-            ++ans;
-
-           	// All the 1s will become 0s and can be popped by 1 step.
-           	// All the 0s will become 1s and can be popped by 2 steps (adding 1 then
-           	// dividing by 2).
-            for (const char c: s)
-                ans += c == '1' ? 1 : 2;
-
-            return ans;
+            operations++;
         }
+
+        return operations;
+    }
 };
