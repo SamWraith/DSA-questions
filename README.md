@@ -1337,6 +1337,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SamWraith/DSA-questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/SamWraith/DSA-questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SamWraith/DSA-questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SamWraith/DSA-questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SamWraith/DSA-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
