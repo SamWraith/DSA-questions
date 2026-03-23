@@ -568,6 +568,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SamWraith/DSA-questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SamWraith/DSA-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/SamWraith/DSA-questions/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SamWraith/DSA-questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/SamWraith/DSA-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SamWraith/DSA-questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1633,6 +1634,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SamWraith/DSA-questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SamWraith/DSA-questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SamWraith/DSA-questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1789,6 +1791,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SamWraith/DSA-questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1511-count-number-of-teams](https://github.com/SamWraith/DSA-questions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SamWraith/DSA-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SamWraith/DSA-questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SamWraith/DSA-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SamWraith/DSA-questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
