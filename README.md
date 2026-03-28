@@ -63,6 +63,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/SamWraith/DSA-questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/SamWraith/DSA-questions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamWraith/DSA-questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamWraith/DSA-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamWraith/DSA-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SamWraith/DSA-questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -693,6 +694,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SamWraith/DSA-questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/SamWraith/DSA-questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SamWraith/DSA-questions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamWraith/DSA-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SamWraith/DSA-questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1405,6 +1407,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SamWraith/DSA-questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/SamWraith/DSA-questions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/SamWraith/DSA-questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/SamWraith/DSA-questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SamWraith/DSA-questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamWraith/DSA-questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1663,6 +1666,7 @@
 | [2411-spiral-matrix-iv](https://github.com/SamWraith/DSA-questions/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamWraith/DSA-questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SamWraith/DSA-questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SamWraith/DSA-questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/SamWraith/DSA-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SamWraith/DSA-questions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -1831,6 +1835,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SamWraith/DSA-questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/SamWraith/DSA-questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SamWraith/DSA-questions/tree/master/2562-count-ways-to-build-good-strings) |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -2298,6 +2303,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/SamWraith/DSA-questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamWraith/DSA-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
