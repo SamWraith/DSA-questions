@@ -503,6 +503,7 @@
 | [0854-making-a-large-island](https://github.com/SamWraith/DSA-questions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/SamWraith/DSA-questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/SamWraith/DSA-questions/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0906-walking-robot-simulation) |
@@ -866,6 +867,7 @@
 | [0797-rabbits-in-forest](https://github.com/SamWraith/DSA-questions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/SamWraith/DSA-questions/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/SamWraith/DSA-questions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1123,6 +1125,7 @@
 | [0067-add-binary](https://github.com/SamWraith/DSA-questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/SamWraith/DSA-questions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/SamWraith/DSA-questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/SamWraith/DSA-questions/tree/master/0921-spiral-matrix-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SamWraith/DSA-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
