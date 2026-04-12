@@ -1358,6 +1358,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SamWraith/DSA-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/SamWraith/DSA-questions/tree/master/1304-longest-happy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SamWraith/DSA-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SamWraith/DSA-questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SamWraith/DSA-questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SamWraith/DSA-questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1818,6 +1819,7 @@
 | [1240-stone-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SamWraith/DSA-questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SamWraith/DSA-questions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/SamWraith/DSA-questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamWraith/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
