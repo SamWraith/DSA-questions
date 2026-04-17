@@ -843,6 +843,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamWraith/DSA-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SamWraith/DSA-questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamWraith/DSA-questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamWraith/DSA-questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamWraith/DSA-questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -992,6 +993,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamWraith/DSA-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SamWraith/DSA-questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamWraith/DSA-questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamWraith/DSA-questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/SamWraith/DSA-questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
@@ -1292,6 +1294,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamWraith/DSA-questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamWraith/DSA-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamWraith/DSA-questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/SamWraith/DSA-questions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
