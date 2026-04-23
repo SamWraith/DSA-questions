@@ -709,6 +709,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SamWraith/DSA-questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SamWraith/DSA-questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/SamWraith/DSA-questions/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SamWraith/DSA-questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamWraith/DSA-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SamWraith/DSA-questions/tree/master/2625-increment-submatrices-by-one) |
@@ -948,6 +949,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SamWraith/DSA-questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SamWraith/DSA-questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/SamWraith/DSA-questions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SamWraith/DSA-questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/SamWraith/DSA-questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1997,6 +1999,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/SamWraith/DSA-questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SamWraith/DSA-questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/SamWraith/DSA-questions/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/SamWraith/DSA-questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SamWraith/DSA-questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SamWraith/DSA-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SamWraith/DSA-questions/tree/master/2691-count-vowel-strings-in-ranges) |
