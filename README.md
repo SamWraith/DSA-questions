@@ -481,6 +481,7 @@
 | [0322-coin-change](https://github.com/SamWraith/DSA-questions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/SamWraith/DSA-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/SamWraith/DSA-questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/SamWraith/DSA-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SamWraith/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
@@ -1224,6 +1225,7 @@
 | [0326-power-of-three](https://github.com/SamWraith/DSA-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SamWraith/DSA-questions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/SamWraith/DSA-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/SamWraith/DSA-questions/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SamWraith/DSA-questions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1833,6 +1835,7 @@
 | [0264-ugly-number-ii](https://github.com/SamWraith/DSA-questions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/SamWraith/DSA-questions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SamWraith/DSA-questions/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/SamWraith/DSA-questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SamWraith/DSA-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0474-ones-and-zeroes) |
