@@ -50,6 +50,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SamWraith/DSA-questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2126-destroying-asteroids](https://github.com/SamWraith/DSA-questions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SamWraith/DSA-questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SamWraith/DSA-questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SamWraith/DSA-questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -166,6 +167,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SamWraith/DSA-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/SamWraith/DSA-questions/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/SamWraith/DSA-questions/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SamWraith/DSA-questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SamWraith/DSA-questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/SamWraith/DSA-questions/tree/master/2164-two-best-non-overlapping-events) |
@@ -645,6 +647,7 @@
 | [2089-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/SamWraith/DSA-questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/SamWraith/DSA-questions/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SamWraith/DSA-questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SamWraith/DSA-questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SamWraith/DSA-questions/tree/master/2141-maximum-running-time-of-n-computers) |
