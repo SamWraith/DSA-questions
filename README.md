@@ -1330,6 +1330,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamWraith/DSA-questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamWraith/DSA-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SamWraith/DSA-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SamWraith/DSA-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SamWraith/DSA-questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1950,6 +1951,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamWraith/DSA-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SamWraith/DSA-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SamWraith/DSA-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Shortest Path
@@ -2359,6 +2361,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SamWraith/DSA-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/SamWraith/DSA-questions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamWraith/DSA-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SamWraith/DSA-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SamWraith/DSA-questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SamWraith/DSA-questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
