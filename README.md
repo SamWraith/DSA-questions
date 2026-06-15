@@ -1058,6 +1058,7 @@
 | [1923-sentence-similarity-iii](https://github.com/SamWraith/DSA-questions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SamWraith/DSA-questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SamWraith/DSA-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/SamWraith/DSA-questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SamWraith/DSA-questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1166,6 +1167,7 @@
 | [0859-design-circular-deque](https://github.com/SamWraith/DSA-questions/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SamWraith/DSA-questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/1484-linked-list-in-binary-tree) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SamWraith/DSA-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SamWraith/DSA-questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SamWraith/DSA-questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/SamWraith/DSA-questions/tree/master/2411-spiral-matrix-iv) |
