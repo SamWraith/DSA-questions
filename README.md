@@ -609,6 +609,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SamWraith/DSA-questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/SamWraith/DSA-questions/tree/master/1720-crawler-log-folder) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SamWraith/DSA-questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/SamWraith/DSA-questions/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SamWraith/DSA-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SamWraith/DSA-questions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/SamWraith/DSA-questions/tree/master/1755-defuse-the-bomb) |
@@ -2053,6 +2054,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/SamWraith/DSA-questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SamWraith/DSA-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/SamWraith/DSA-questions/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/SamWraith/DSA-questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SamWraith/DSA-questions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SamWraith/DSA-questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
