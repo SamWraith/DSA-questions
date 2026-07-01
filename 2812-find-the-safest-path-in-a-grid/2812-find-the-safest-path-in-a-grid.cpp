@@ -1,112 +1,68 @@
-class Solution
-{
-    public:
-        int maximumSafenessFactor(vector<vector < int>> &grid)
-        {
-            const vector<vector < int>> distToThief = getDistToThief(grid);
-            int l = 0;
-            int r = grid.size() *2;
+class Solution {
+public:
 
-            while (l < r)
-            {
-                const int m = (l + r) / 2;
-                if (hasValidPath(distToThief, m))
-                    l = m + 1;
-                else
-                    r = m;
-            }
+    int maximumSafenessFactor(vector<vector<int>>& grid) {
+        int n = grid.size();
+        queue<pair<int, int>> multiSourceQueue;
 
-            return l - 1;
-        }
-
-    private:
-        static constexpr int dirs[4][2] = {
-		{ 0,
-                1 },
-            { 1,
-                0 },
-            { 0,
-                -1 },
-            { -1,
-                0 }
-        };
-
-    bool hasValidPath(const vector<vector < int>> &distToThief, int safeness)
-    {
-        if (distToThief[0][0] < safeness)
-            return false;
-
-        const int n = distToThief.size();
-        queue<pair<int, int>> q
-        {
-            {
-                { 0,
-                    0 }
-            }
-        };
-        vector<vector < bool>> seen(n, vector<bool> (n));
-        seen[0][0] = true;
-
-        while (!q.empty())
-        {
-            const auto[i, j] = q.front();
-            q.pop();
-            if (distToThief[i][j] < safeness)
-                continue;
-            if (i == n - 1 && j == n - 1)
-                return true;
-            for (const auto &[dx, dy]: dirs)
-            {
-                const int x = i + dx;
-                const int y = j + dy;
-                if (x < 0 || x == n || y < 0 || y == n)
-                    continue;
-                if (seen[x][y])
-                    continue;
-                q.emplace(x, y);
-                seen[x][y] = true;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1) {
+                    multiSourceQueue.push({i, j});
+                    grid[i][j] = 0;
+                } else {
+                    grid[i][j] = -1;
+                }
             }
         }
 
-        return false;
+        while (!multiSourceQueue.empty()) {
+            int size = multiSourceQueue.size();
+            while (size-- > 0) {
+                auto curr = multiSourceQueue.front();
+                multiSourceQueue.pop();
+                for (auto& d : dir) {
+                    int di = curr.first + d[0];
+                    int dj = curr.second + d[1];
+                    int val = grid[curr.first][curr.second];
+                    if (isValidCell(grid, di, dj) && grid[di][dj] == -1) {
+                        grid[di][dj] = val + 1;
+                        multiSourceQueue.push({di, dj});
+                    }
+                }
+            }
+        }
+
+        priority_queue<vector<int>> pq;
+        pq.push(vector<int>{grid[0][0], 0, 0}); 
+        grid[0][0] = -1; 
+
+        while (!pq.empty()) {
+            auto curr = pq.top();
+            pq.pop();
+
+            if (curr[1] == n - 1 && curr[2] == n - 1) {
+                return curr[0];
+            }
+
+            for (auto& d : dir) {
+                int di = d[0] + curr[1];
+                int dj = d[1] + curr[2];
+                if (isValidCell(grid, di, dj) && grid[di][dj] != -1) {
+                    pq.push(vector<int>{min(curr[0], grid[di][dj]), di, dj});
+                    grid[di][dj] = -1;
+                }
+            }
+        }
+
+        return -1;
     }
 
-    vector<vector < int>> getDistToThief(const vector<vector < int>> &grid)
-    {
-        const int n = grid.size();
-        vector<vector < int>> distToThief(n, vector<int> (n));
-        queue<pair<int, int>> q;
-        vector<vector < bool>> seen(n, vector<bool> (n));
+private:
+    vector<vector<int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
-        for (int i = 0; i < n; ++i)
-            for (int j = 0; j < n; ++j)
-                if (grid[i][j] == 1)
-                {
-                    q.emplace(i, j);
-                    seen[i][j] = true;
-                }
-
-        for (int dist = 0; !q.empty(); ++dist)
-        {
-            for (int sz = q.size(); sz > 0; --sz)
-            {
-                const auto[i, j] = q.front();
-                q.pop();
-                distToThief[i][j] = dist;
-                for (const auto &[dx, dy]: dirs)
-                {
-                    const int x = i + dx;
-                    const int y = j + dy;
-                    if (x < 0 || x == n || y < 0 || y == n)
-                        continue;
-                    if (seen[x][y])
-                        continue;
-                    q.emplace(x, y);
-                    seen[x][y] = true;
-                }
-            }
-        }
-
-        return distToThief;
+    bool isValidCell(vector<vector<int>>& mat, int i, int j) {
+        int n = mat.size();
+        return i >= 0 && j >= 0 && i < n && j < n;
     }
 };
