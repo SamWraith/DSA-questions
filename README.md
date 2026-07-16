@@ -231,6 +231,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamWraith/DSA-questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -905,6 +906,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamWraith/DSA-questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/SamWraith/DSA-questions/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamWraith/DSA-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SamWraith/DSA-questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/SamWraith/DSA-questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1255,6 +1258,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SamWraith/DSA-questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -1376,6 +1380,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/SamWraith/DSA-questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/SamWraith/DSA-questions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -2278,6 +2283,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/SamWraith/DSA-questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SamWraith/DSA-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
