@@ -648,6 +648,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/SamWraith/DSA-questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/SamWraith/DSA-questions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/SamWraith/DSA-questions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SamWraith/DSA-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SamWraith/DSA-questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1313,6 +1314,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SamWraith/DSA-questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/SamWraith/DSA-questions/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SamWraith/DSA-questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SamWraith/DSA-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SamWraith/DSA-questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SamWraith/DSA-questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/SamWraith/DSA-questions/tree/master/2050-count-good-numbers) |
@@ -2274,6 +2276,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SamWraith/DSA-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SamWraith/DSA-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/SamWraith/DSA-questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SamWraith/DSA-questions/tree/master/2610-closest-prime-numbers-in-range) |
