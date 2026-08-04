@@ -234,6 +234,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/SamWraith/DSA-questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamWraith/DSA-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -896,6 +897,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SamWraith/DSA-questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamWraith/DSA-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SamWraith/DSA-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamWraith/DSA-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1060,6 +1062,7 @@
 | [3678-design-task-manager](https://github.com/SamWraith/DSA-questions/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/SamWraith/DSA-questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/SamWraith/DSA-questions/tree/master/3714-longest-balanced-substring-ii) |
+| [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SamWraith/DSA-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SamWraith/DSA-questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SamWraith/DSA-questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
