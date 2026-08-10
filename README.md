@@ -1319,6 +1319,7 @@
 | [1448-maximum-69-number](https://github.com/SamWraith/DSA-questions/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SamWraith/DSA-questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SamWraith/DSA-questions/tree/master/1500-count-largest-group) |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SamWraith/DSA-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SamWraith/DSA-questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SamWraith/DSA-questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1970,6 +1971,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SamWraith/DSA-questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/SamWraith/DSA-questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
 | [1511-count-number-of-teams](https://github.com/SamWraith/DSA-questions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SamWraith/DSA-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SamWraith/DSA-questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -2302,6 +2304,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SamWraith/DSA-questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
 | [3462-vowels-game-in-a-string](https://github.com/SamWraith/DSA-questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2521,4 +2524,20 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SamWraith/DSA-questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SamWraith/DSA-questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
