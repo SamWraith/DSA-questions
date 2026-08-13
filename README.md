@@ -693,6 +693,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SamWraith/DSA-questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SamWraith/DSA-questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SamWraith/DSA-questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamWraith/DSA-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SamWraith/DSA-questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SamWraith/DSA-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/SamWraith/DSA-questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1522,6 +1523,7 @@
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SamWraith/DSA-questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2211-count-collisions-on-a-road](https://github.com/SamWraith/DSA-questions/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamWraith/DSA-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SamWraith/DSA-questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SamWraith/DSA-questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SamWraith/DSA-questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -2413,6 +2415,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamWraith/DSA-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SamWraith/DSA-questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/3454-separate-squares-ii) |
@@ -2426,6 +2429,7 @@
 | [0729-my-calendar-i](https://github.com/SamWraith/DSA-questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SamWraith/DSA-questions/tree/master/0731-my-calendar-ii) |
 | [2023-design-movie-rental-system](https://github.com/SamWraith/DSA-questions/tree/master/2023-design-movie-rental-system) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/SamWraith/DSA-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/SamWraith/DSA-questions/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2868-continuous-subarrays) |
