@@ -875,6 +875,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SamWraith/DSA-questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SamWraith/DSA-questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SamWraith/DSA-questions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SamWraith/DSA-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SamWraith/DSA-questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SamWraith/DSA-questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1411,6 +1412,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SamWraith/DSA-questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/SamWraith/DSA-questions/tree/master/3524-find-x-value-of-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/SamWraith/DSA-questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SamWraith/DSA-questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SamWraith/DSA-questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SamWraith/DSA-questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
