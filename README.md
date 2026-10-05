@@ -1501,6 +1501,7 @@
 | [0761-special-binary-string](https://github.com/SamWraith/DSA-questions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/SamWraith/DSA-questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/SamWraith/DSA-questions/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/SamWraith/DSA-questions/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SamWraith/DSA-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/SamWraith/DSA-questions/tree/master/0952-word-subsets) |
@@ -1660,6 +1661,7 @@
 | [0726-number-of-atoms](https://github.com/SamWraith/DSA-questions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SamWraith/DSA-questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SamWraith/DSA-questions/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -2624,5 +2626,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
