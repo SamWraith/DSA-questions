@@ -389,6 +389,7 @@
 | [0207-course-schedule](https://github.com/SamWraith/DSA-questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SamWraith/DSA-questions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/SamWraith/DSA-questions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/SamWraith/DSA-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamWraith/DSA-questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1486,6 +1487,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SamWraith/DSA-questions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamWraith/DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/SamWraith/DSA-questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/SamWraith/DSA-questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/SamWraith/DSA-questions/tree/master/0539-minimum-time-difference) |
@@ -2298,6 +2300,7 @@
 | [0046-permutations](https://github.com/SamWraith/DSA-questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamWraith/DSA-questions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SamWraith/DSA-questions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/SamWraith/DSA-questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SamWraith/DSA-questions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SamWraith/DSA-questions/tree/master/0679-24-game) |
