@@ -1511,6 +1511,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/SamWraith/DSA-questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/SamWraith/DSA-questions/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/SamWraith/DSA-questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/SamWraith/DSA-questions/tree/master/1096-brace-expansion-ii) |
@@ -1666,6 +1667,7 @@
 | [0856-score-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SamWraith/DSA-questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SamWraith/DSA-questions/tree/master/1002-maximum-width-ramp) |
+| [1021-remove-outermost-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamWraith/DSA-questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/SamWraith/DSA-questions/tree/master/1096-brace-expansion-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -2630,5 +2632,6 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
