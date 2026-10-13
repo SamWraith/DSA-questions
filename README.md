@@ -99,6 +99,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SamWraith/DSA-questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamWraith/DSA-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/SamWraith/DSA-questions/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamWraith/DSA-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SamWraith/DSA-questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SamWraith/DSA-questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -242,6 +243,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/SamWraith/DSA-questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SamWraith/DSA-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SamWraith/DSA-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -921,6 +923,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SamWraith/DSA-questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamWraith/DSA-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SamWraith/DSA-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
