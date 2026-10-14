@@ -99,6 +99,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SamWraith/DSA-questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SamWraith/DSA-questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/SamWraith/DSA-questions/tree/master/3647-zero-array-transformation-iii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SamWraith/DSA-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/SamWraith/DSA-questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/SamWraith/DSA-questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1441,6 +1442,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/SamWraith/DSA-questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamWraith/DSA-questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SamWraith/DSA-questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamWraith/DSA-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SamWraith/DSA-questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SamWraith/DSA-questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
