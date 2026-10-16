@@ -813,6 +813,7 @@
 | [2906-construct-product-matrix](https://github.com/SamWraith/DSA-questions/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamWraith/DSA-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SamWraith/DSA-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamWraith/DSA-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SamWraith/DSA-questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1064,6 +1065,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamWraith/DSA-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/SamWraith/DSA-questions/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SamWraith/DSA-questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SamWraith/DSA-questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SamWraith/DSA-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2147,6 +2149,7 @@
 | [1511-count-number-of-teams](https://github.com/SamWraith/DSA-questions/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamWraith/DSA-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SamWraith/DSA-questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Sliding Window
 |  |
@@ -2511,6 +2514,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SamWraith/DSA-questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SamWraith/DSA-questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SamWraith/DSA-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SamWraith/DSA-questions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/SamWraith/DSA-questions/tree/master/3454-separate-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SamWraith/DSA-questions/tree/master/3737-count-subarrays-with-majority-element-i) |
