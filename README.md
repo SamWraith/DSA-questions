@@ -922,6 +922,7 @@
 | [3640-trionic-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SamWraith/DSA-questions/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SamWraith/DSA-questions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SamWraith/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3647-zero-array-transformation-iii](https://github.com/SamWraith/DSA-questions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamWraith/DSA-questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SamWraith/DSA-questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -2403,6 +2404,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SamWraith/DSA-questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SamWraith/DSA-questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SamWraith/DSA-questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SamWraith/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SamWraith/DSA-questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SamWraith/DSA-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SamWraith/DSA-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
