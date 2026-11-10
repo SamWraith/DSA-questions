@@ -940,6 +940,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SamWraith/DSA-questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SamWraith/DSA-questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/SamWraith/DSA-questions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SamWraith/DSA-questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SamWraith/DSA-questions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamWraith/DSA-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -2151,6 +2152,7 @@
 | [3640-trionic-array-ii](https://github.com/SamWraith/DSA-questions/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SamWraith/DSA-questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SamWraith/DSA-questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3693-climbing-stairs-ii](https://github.com/SamWraith/DSA-questions/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SamWraith/DSA-questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SamWraith/DSA-questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SamWraith/DSA-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
