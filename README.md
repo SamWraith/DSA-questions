@@ -973,6 +973,7 @@
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SamWraith/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/SamWraith/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/SamWraith/DSA-questions/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SamWraith/DSA-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -1140,6 +1141,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SamWraith/DSA-questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/SamWraith/DSA-questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SamWraith/DSA-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1269,6 +1271,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/SamWraith/DSA-questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SamWraith/DSA-questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/SamWraith/DSA-questions/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -2526,6 +2529,7 @@
 | [0214-shortest-palindrome](https://github.com/SamWraith/DSA-questions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SamWraith/DSA-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SamWraith/DSA-questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -2542,6 +2546,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SamWraith/DSA-questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SamWraith/DSA-questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SamWraith/DSA-questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -2708,4 +2713,8 @@
 | [1021-remove-outermost-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SamWraith/DSA-questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SamWraith/DSA-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/SamWraith/DSA-questions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
